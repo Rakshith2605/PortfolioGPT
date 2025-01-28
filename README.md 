@@ -1,0 +1,14 @@
+# Chatbot Project
+
+This repository contains a Python chatbot backend and a frontend for interacting with it.
+
+## Backend
+The backend is built using Flask and deployed on Render.
+
+## Frontend
+The frontend is a simple HTML/CSS/JavaScript interface hosted on GitHub Pages.
+
+## How to Deploy
+1. Deploy the backend on Render.
+2. Host the frontend on GitHub Pages.
+3. Update the backend URL in the frontend's `script.js` file.
